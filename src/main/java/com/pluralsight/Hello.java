@@ -7,7 +7,7 @@ public class Hello {
         sayHello();
         sayGoodbye();
         sayGoodMorning();
-///
+//////
 
     }
     //make a method that says hello world
